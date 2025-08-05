@@ -1,8 +1,7 @@
-const {calculateSum} = require('../Node-For-API/index')
-const {mul} = require('../Node-For-API/script')
+const { calculateSum } = require("./index");
+const { mul } = require("./script");
 
-
-module.exports = {calculateSum,mul}
+module.exports = { calculateSum, mul };
 
 // let a = 10;
 // let b = 20;
